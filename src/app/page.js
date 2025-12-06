@@ -23,7 +23,7 @@ export default function Home() {
       <div className="flex-1 flex flex-col items-center justify-center z-10 mt-[-40px]">
         <div className="text-center mb-8 px-4">
           <h1 className="text-5xl md:text-7xl font-extrabold text-white mb-2 drop-shadow-md tracking-tight">
-             ETHMUMBAI PFP TWEAKER
+             ETHMUMBAI PFP MAKER
           </h1>
           <p className="text-white/90 text-lg md:text-xl font-medium max-w-lg mx-auto">
             Get on the bus to the future of Web3
